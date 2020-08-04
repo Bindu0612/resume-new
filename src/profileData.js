@@ -1,4 +1,4 @@
-export const profile1 = [{ role : "SOFTWARE ENGINEER", key1: "PROFILE", 
+export const profile1 = [{name : "BINDU", role : "SOFTWARE ENGINEER", key1: "PROFILE", 
                             description1 : "I am a software engineer working for a esteemed private organization klndl; cvdfomflvmdfl;vmdfkl vndflvnfk;lkvn'fldvk;d/",
                             key2 : "CONTACT", description2 : "PHONE : 3848888999",
                             key3 : "WEBSITE", description3 : "MyWebsite.com",
