@@ -24,19 +24,19 @@
   font-weight: bold;
   display: inline-block;
   padding-top: 20px;
+  padding-bottom: 5px;
   
 }
 
 .keyStyle1{
-  color:rgb(86, 162, 212);
   font-weight: bold;
   display: inline-block;
   padding-top: 20px;
   padding-bottom: 5px;
   padding-top: 20px;
-    width: 100%;
+  width: 100%;
 }
 .descStyle{
-  padding-top: 3px;
+  padding-top: 10px;
 }
 

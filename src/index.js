@@ -1,13 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-// import App from './App';
 import 'bootstrap/dist/css/bootstrap.css';
-import Dupli from './Resume';
+import ResumeNew from './ResumeNew';
 
 ReactDOM.render(
-    // <App />
-    <Dupli/>
+    <ResumeNew/>
  ,
   document.getElementById('root')
 );
