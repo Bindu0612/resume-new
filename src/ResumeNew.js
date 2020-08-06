@@ -6,8 +6,6 @@ class ResumeNew extends Component {
 
     render() {
         const item = profile[0];
-        console.log(item, "item");
-        console.log(item.personalBD[0].Intro, "name")
         return (
             <div className="container">
                 <div >
