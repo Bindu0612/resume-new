@@ -1,6 +1,6 @@
 export const profile = [
     {
-    personalBD:[{
+    personalBD:{
       Intro: 'Hello everyone, I am Bindu. I am learning HTML, CSS and JS, so utilizing them in making this resume using Javascript objects',
     firstName: 'Bindu',
     lastName: '',
@@ -9,7 +9,7 @@ export const profile = [
     website: 'https://www.google.com',
     email: 'mymail@gmail.com',
     occupation: 'Software Engineer',
-    }],
+    },
 
     hobbies: ['active in sports', 
     'cooking'],
@@ -18,13 +18,15 @@ export const profile = [
       {
         id: 'BCA',
         name: 'GNG COLLEGE',
-        year: '2002-2005',
+        yearFrom: '2002',
+        yearTo: '2005',
         specialty: 'I topped the university with 95% marks',
       },
       {
         id: 'MCA',
         name: 'GB PANT ENGINEERING COLLEGE',
-        year: '2005-2008',
+        yearFrom: '2005',
+        yearTo: '2008',
         specialty: 'Stood second at district level',
       },
     ],

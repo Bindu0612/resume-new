@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './App.css';
+import './ResumeNew.css';
 import { profile } from './Config';
 
 class ResumeNew extends Component {
