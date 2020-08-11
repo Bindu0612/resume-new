@@ -2,10 +2,10 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import 'bootstrap/dist/css/bootstrap.css';
-import Loop from './Loop';
+import Resume from './Resume';
 
 ReactDOM.render(
-    <Loop/>
+    <Resume/>
  ,
   document.getElementById('root')
 );
